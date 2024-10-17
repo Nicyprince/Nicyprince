@@ -1,15 +1,15 @@
-# Hi there!  I'm Nicy Prince.
+# Hi there! 👋  I'm Nicy Prince.
 
 Welcome to my GitHub! I'm currently on a journey to become a **Data Analyst**. I love working with data, uncovering insights, and applying statistical analysis to solve real-world problems.
 
-## 🚀 About Me
+## About Me
 
-- 🎓 I'm pursuing a Post Graduate Diploma in **Big Data Analytics** at Lambton College.
-- 🔢 I have a **Bachelor of Science in Mathematics** and love working with numbers, data, and algorithms.
-- 📊 I'm documenting my **Data Analyst Journey** in my [GitHub repository]([https://github.com/your-username/Data-Analyst-Journey](https://github.com/Nicyprince/Data-Analyst-Journey)) where I upload daily projects and learnings.
-- 🔍 I'm focused on improving my skills in data wrangling, visualization, and machine learning.
+-  I'm pursuing a Post Graduate Diploma in **Big Data Analytics** at Lambton College.
+-  I have a **Bachelor of Science in Mathematics** and love working with numbers, data, and algorithms.
+-  I'm documenting my **Data Analyst Journey** in my [GitHub repository]([https://github.com/your-username/Data-Analyst-Journey](https://github.com/Nicyprince/Data-Analyst-Journey)) where I upload daily projects and learnings.
+-  I'm focused on improving my skills in data wrangling, visualization, and machine learning.
 
-## 🔧 Skills & Tools
+##  Skills & Tools
 
 - **Languages**: Python, SQL
 - **Libraries & Tools**: Pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebooks
@@ -19,13 +19,13 @@ Welcome to my GitHub! I'm currently on a journey to become a **Data Analyst**. I
 - **Databases**: MySQL, MongoDB
 - **Version Control**: Git, GitHub
 
-## 🌱 What I'm Learning
+##  What I'm Learning
 
 - Improving my skills in **Exploratory Data Analysis** and **Machine Learning** algorithms.
 - Exploring **NLP** and working on a **Sentiment Analysis Project**.
 - Practicing **data visualization** techniques using **Power BI** and **Tableau**.
 
-## 📈 Current Projects
+##  Current Projects
 
 - **Data Analyst Journey**: [Repository]([https://github.com/your-username/Data-Analyst-Journey](https://github.com/Nicyprince/Data-Analyst-Journey))
 
