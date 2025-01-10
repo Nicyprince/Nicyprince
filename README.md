@@ -1,16 +1,13 @@
-# Hi there! 👋  I'm Nicy Prince.
+# Hi there! I'm Nicy Prince.
 
-Welcome to my GitHub! I'm currently on a journey to become a **Data Analyst**. I love working with data, uncovering insights, and applying statistical analysis to solve real-world problems.
+Welcome to my GitHub! I'm currently on a journey to become a Data Analyst. I love working with data, uncovering insights, and applying statistical analysis to solve real-world problems.
 
 ## About Me
+I'm pursuing a Post Graduate Diploma in Big Data Analytics at Lambton College.  
+I have a Bachelor of Science in Mathematics and love working with numbers, data, and algorithms.  
+I'm focused on improving my skills in data wrangling, visualization, and machine learning.
 
--  I'm pursuing a Post Graduate Diploma in **Big Data Analytics** at Lambton College.
--  I have a **Bachelor of Science in Mathematics** and love working with numbers, data, and algorithms.
--  I'm documenting my **Data Analyst Journey** in my [GitHub repository]([https://github.com/your-username/Data-Analyst-Journey](https://github.com/Nicyprince/Data-Analyst-Journey)) where I upload daily projects and learnings.
--  I'm focused on improving my skills in data wrangling, visualization, and machine learning.
-
-##  Skills & Tools
-
+## Skills & Tools
 - **Languages**: Python, SQL
 - **Libraries & Tools**: Pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebooks
 - **Big Data Tools**: Hadoop, PySpark, Hive
@@ -19,17 +16,14 @@ Welcome to my GitHub! I'm currently on a journey to become a **Data Analyst**. I
 - **Databases**: MySQL, MongoDB
 - **Version Control**: Git, GitHub
 
-##  What I'm Learning
+## What I'm Learning
+- Improving my skills in Exploratory Data Analysis and Machine Learning algorithms.
+- Working on E-commerce Product Analysis, Trends, Price tracking Analysis and Recommendations Project.
+- Practicing data visualization techniques using Power BI and Tableau.
 
-- Improving my skills in **Exploratory Data Analysis** and **Machine Learning** algorithms.
-- Exploring **NLP** and working on a **Sentiment Analysis Project**.
-- Practicing **data visualization** techniques using **Power BI** and **Tableau**.
+## Current Projects
+- **Personalized Movie Recommendation System**: Working on building a recommendation system based on user preferences and historical data.
 
-##  Current Projects
+💡 Let's Connect  
 
-- **Data Analyst Journey**: [Repository]([https://github.com/your-username/Data-Analyst-Journey](https://github.com/Nicyprince/Data-Analyst-Journey))
-
-
-## 💡 Let's Connect
-
-- [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/nicy-prince12/))
+[LinkedIn](https://www.linkedin.com/in/nicy-prince12/)
